@@ -11,7 +11,8 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Mesut Demirci"
-        tools:layout_editor_absoluteX="147dp"
+        android:text="Skype Yazılım Kursu"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        tools:layout_editor_absoluteX="39dp"
         tools:layout_editor_absoluteY="185dp"/>
 </android.support.constraint.ConstraintLayout>
